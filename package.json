@@ -1,0 +1,24 @@
+{
+    "name": "profil_app",
+    "version": "1.0.0",
+    "description": "Création profil utilisateur",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kante24/NodeJsProfilApp.git"
+    },
+    "author": "David Kante",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kante24/NodeJsProfilApp/issues"
+    },
+    "homepage": "https://github.com/kante24/NodeJsProfilApp#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^6.0.13",
+        "nodemon": "^2.0.15"
+    }
+}
